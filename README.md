@@ -1,6 +1,6 @@
-- 👋 Hi, I’m Shrishail Gajbhar, a researcher by training and currenly working as a Specialist - Data Scientist.
+- 👋 Hi, I’m Shrishail Gajbhar, a researcher by training and currenly working as a Generative AI engineer.
 - 👀 I’m interested in data related technologies mainly in the areas of data science and machine learning.
-- 🌱 I’m currently learning GenAI frameworks such as Langchain, LlamaIndex for building LLM applications.
+- 🌱 I’m currently learning GenAI agentic frameworks such as LangGraph, CrewAI, AutoGen etc.
 - 💞️ I’m looking to collaborate on generative AI, data science projects
 - 📫 How to reach me ..drop a mail on shrishailgajbhar5@gmail.com
 
